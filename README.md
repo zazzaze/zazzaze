@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+- iOS Developer
+- write me on Telegram: @ekeev
+- I'm so unlucky
 
 <!--
 **zazzaze/zazzaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
