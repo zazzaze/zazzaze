@@ -2,7 +2,7 @@
 
 ## About me
 - 🧑🏻‍💻 iOS Developer
-- 👨🏻‍🎓 Higher School of Economic Software Engineering student. Studying [github account](https://github.com/zazzazeHSE) 
+- 👨🏻‍🎓 Higher School of Economic Software Engineering student. Studying [GitHub account](https://github.com/zazzazeHSE) 
 - 📖 Passionate about studying Kotlin Mutliplatform Mobile
 
 <img src="metrics.plugin.topics.svg"/>
