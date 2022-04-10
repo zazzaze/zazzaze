@@ -7,7 +7,7 @@
 
 <img src="metrics.plugin.topics.svg"/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zazzaze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zazzaze&repo=WebKocketus&theme=buefy&hide_border=true"/> |
+| <a href="https://github.com/zazzaze/zazzaze"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zazzaze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/zazzaze/WebKocketus"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zazzaze&repo=WebKocketus&theme=buefy&hide_border=true"/></a> |
 |------------|-------------|
  -----------
 <p align="center">
